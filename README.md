@@ -53,7 +53,7 @@ Repository contains:
 
 ## Live Streamlit App
 
-> **[PASTE YOUR STREAMLIT APP LINK HERE]**
+> **[[PASTE YOUR STREAMLIT APP LINK HERE]](https://2025da04038---ml-assignment-legnpystmehtwvxivhzh7n.streamlit.app/)**
 
 ## How to Run Locally
 
