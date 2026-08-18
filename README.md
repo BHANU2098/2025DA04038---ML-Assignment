@@ -18,7 +18,7 @@ Predict whether an individual's annual income exceeds $50,000 based on demograph
 
 ## c. GitHub Repository Link
 
-> **[PASTE YOUR GITHUB REPO LINK HERE]**
+> **https://github.com/BHANU2098/2025DA04038---ML-Assignment**
 
 Repository contains:
 - `app.py` — Streamlit application
@@ -53,7 +53,7 @@ Repository contains:
 
 ## Live Streamlit App
 
-> **[[PASTE YOUR STREAMLIT APP LINK HERE]](https://2025da04038---ml-assignment-legnpystmehtwvxivhzh7n.streamlit.app/)**
+> **(https://2025da04038---ml-assignment-legnpystmehtwvxivhzh7n.streamlit.app/)**
 
 ## How to Run Locally
 
